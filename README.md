@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMUDHASANSADI&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDHASANSADI" /> </p>
 
-<p align="left"> <a href="https://twitter.com/web_clone_" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
 
 - 🔭 I’m currently working on **HRMS(Human Resource Management System)**
 
