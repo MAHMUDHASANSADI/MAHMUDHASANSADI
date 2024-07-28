@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me: on whatsapp: 01304456902</h3>
 <p align="left">
-<a href="https://twitter.com/web_clone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web_clone_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yeasin-arafat-nahid-a76894298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeasin-arafat-nahid" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCImxa-rUTHldB5gdr7V0rdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codealgoschool" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web_clone_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeasin-arafat-nahid" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codealgoschool" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
