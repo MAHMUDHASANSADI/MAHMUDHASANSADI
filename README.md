@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
 
-- 🔭 I’m currently working on **HRMS(Human Resource Management System)**
+- 🔭 I’m currently working on **BizzPack ERP(Finance-Accounting, Procurement Management, Asset Management)**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m looking for help with **Inventory management software**
 
-- 💬 Ask me about **react, laravel, node js , MERN Stack**
+- 💬 Ask me about **react, laravel, agile , MERN Stack**
 
 - 📫 How to reach me **mhasan181075@bscse.uiu.ac.bd**
 
