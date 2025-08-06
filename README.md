@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, laravel, agile , MERN Stack**
 
-- 📫 How to reach me **mahmudhasansadi92@gmail.com**
+- 📫 How to reach me mahmudhasansadi92@gmail.com
 
 <h3 align="left">Connect with me: on whatsapp: 01746654562</h3>
 <p align="left">
