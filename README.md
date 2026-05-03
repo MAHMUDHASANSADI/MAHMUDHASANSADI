@@ -1,34 +1,112 @@
-
 <h1 align="center">Hi 👋, I'm Mahmud Hasan Sadi</h1>
-<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
-<img  align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMUDHASANSADI&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDHASANSADI" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/" target="blank"><img src="https://img.shields.io/twitter/follow/web_clone_?logo=twitter&style=for-the-badge" alt="web_clone_" /></a> </p>
-
-- 🔭 I’m currently working on **BizzPack ERP(Finance-Accounting, Procurement Management, Asset Management)**
-
-- 🌱 I’m currently learning **Devops**
-
-- 🤝 I’m looking for help with **Inventory management software**
-
-- 💬 Ask me about **react, laravel, agile , MERN Stack**
-
-- 📫 How to reach me mahmudhasansadi92@gmail.com
-
-<h3 align="left">Connect with me: 01746654562</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web_clone_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeasin-arafat-nahid" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codealgoschool" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+MERN;Building+Scalable+Web+Applications;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=laravel&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F800px-Laravel.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLaravel&docid=Gtyg1MSSNKBLOM&tbnid=o1p2PT9e8_8YxM&vet=12ahUKEwjErOndp8mHAxXQxjgGHfMMCggQM3oECBYQAA..i&w=800&h=832&hcb=2&ved=2ahUKEwjErOndp8mHAxXQxjgGHfMMCggQM3oECBYQAA" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Passionate Full Stack Developer from Bangladesh</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAHMUDHASANSADI&show_icons=true&locale=en&layout=compact" alt="sadi" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MAHMUDHASANSADI&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MAHMUDHASANSADI&show_icons=true&locale=en" alt="sadi" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmud-hasan-bb79b8215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mahmudhasansadi92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHMUDHASANSADI&" alt="sadi" /></p>
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **BizzPack ERP** *(Finance, Procurement, Asset Management)*
+* 🌱 Learning **DevOps, CI/CD & System Design**
+* 🤝 Open to collaboration on **Inventory / ERP Systems**
+* 💬 Ask me about **Laravel, React, MERN Stack, Agile**
+* 📫 Email: **[mahmudhasansadi92@gmail.com](mailto:mahmudhasansadi92@gmail.com)**
+* 📱 Phone: **01746654562**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 BizzPack ERP
+
+> Full ERP solution including Finance, Procurement & Asset Management
+> 🔗 https://github.com/your-repo-link
+
+---
+
+### 🎓 ELMS (E-Learning Management System)
+
+> Course platform with exams, certificates & user dashboard
+> 🔗 https://github.com/your-repo-link
+
+---
+
+### 🌦️ Weather Prediction System
+
+> ML-based weather forecasting using historical data
+> 🔗 https://github.com/your-repo-link
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css,js,ts" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHMUDHASANSADI&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHMUDHASANSADI&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMUDHASANSADI&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MAHMUDHASANSADI/MAHMUDHASANSADI/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy building real-world scalable systems and turning ideas into products 🚀
