@@ -37,21 +37,21 @@
 ### 🏢 BizzPack ERP
 
 > Full ERP solution including Finance, Procurement & Asset Management
-> 🔗 https://github.com/your-repo-link
+
 
 ---
 
 ### 🎓 ELMS (E-Learning Management System)
 
 > Course platform with exams, certificates & user dashboard
-> 🔗 https://github.com/your-repo-link
+
 
 ---
 
 ### 🌦️ Weather Prediction System
 
 > ML-based weather forecasting using historical data
-> 🔗 https://github.com/your-repo-link
+
 
 ---
 
