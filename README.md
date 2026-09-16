@@ -23,7 +23,8 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **BizzPack ERP** *(Finance, Procurement, Asset Management)*
+* 🔭 Currently working on **Spaceship Singapore** *(Warehouse Management System, Fulfillment Order, Storage Management)*
+* 🔭 Previously worked on **BizzPack ERP** *(Finance, Procurement, Asset Management)*
 * 🌱 Learning **DevOps, CI/CD & System Design**
 * 🤝 Open to collaboration on **Inventory / ERP Systems**
 * 💬 Ask me about **Laravel, React, MERN Stack, Agile**
